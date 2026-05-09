@@ -87,7 +87,7 @@ The notebook saves:
 |---|---|
 | Validation accuracy (epoch 4, before train+val merge) | 0.8082 |
 | Public LB (train + val merge) | 0.81488 |
-| **Final (private) LB** | **0.82293** |
+| **Final LB** | **0.82293** |
 
 ## Repository
 
